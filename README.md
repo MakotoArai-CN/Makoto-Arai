@@ -5,8 +5,7 @@
 - **UI/UX Design**: Balancing beauty and usability to create intuitive designs that users love.
 - **Performance Optimization**: Ensuring lightning-fast load times and smooth interactions for an immersive browsing experience.
 
-### Number of Visitors
-![Visitor Count](https://profile-counter.glitch.me/MakotoArai-CN/count.svg)
+You are my ![Visitor Count](https://profile-counter.glitch.me/MakotoArai-CN/count.svg)visitor,Thank you!
 
 ### Contribution Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakotoArai-CN&layout=compact&theme=tokyonight) 
